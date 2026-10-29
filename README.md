@@ -46,41 +46,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-### Featured Projects
-
-<table>
-  <tr>
-    <td><b>Project</b></td>
-    <td><b>Description</b></td>
-    <td><b>Stack</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/myportfolio"><b>My Portfolio</b></a></td>
-    <td>Windows 11-style interactive portfolio with draggable windows and desktop metaphor</td>
-    <td>Next.js, TypeScript, Fluent UI</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/muncglobal-project"><b>MUNCGLOBAL</b></a></td>
-    <td>Conference website with Paystack payments, registration, and delegate management</td>
-    <td>React, Node.js, Express, Tailwind</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/E-Learning-Platform"><b>E-Learning Platform</b></a></td>
-    <td>Full-stack eLearning system with auth, course management, video content, and admin dashboard</td>
-    <td>Python, Flask, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/esig"><b>eSig</b></a></td>
-    <td>Employee petition platform with digital signature capture and CSV export</td>
-    <td>JavaScript, Node.js, SQL</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/SDDDs-Final-Year-Project"><b>Driver Drowsiness Detection</b></a></td>
-    <td>ML-powered drowsiness detection system (final year project)</td>
-    <td>Python, OpenCV</td>
-  </tr>
-</table>
-
 ### GitHub Stats
 
 <p align="center">
