@@ -1,4 +1,4 @@
-<![CDATA[<h1 align="center">Hey there, I'm Krem 👋</h1>
+<h1 align="center">Hey there, I'm Krem 👋</h1>
 
 <p align="center">
   <b>Computer & Software Engineer</b> based in Accra, Ghana 🇬🇭<br/>
@@ -48,23 +48,43 @@
 
 ### Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**GeoPluse**](https://github.com/Krem-dev/geopulse) | Location-based services app | Dart, Flutter |
-| [**Olive Path**](https://github.com/Krem-dev/olive-path) | Full-stack web application | TypeScript, Next.js |
-| [**Gradly**](https://github.com/Krem-dev/gradly) | Education platform | TypeScript |
-| [**Kremlib App**](https://github.com/Krem-dev/Kremlib-app) | Library application | TypeScript |
-| [**E-Learning Platform**](https://github.com/Krem-dev/E-Learning-Platform) | Online learning system | HTML, CSS, JS |
+<table>
+  <tr>
+    <td><b>Project</b></td>
+    <td><b>Description</b></td>
+    <td><b>Stack</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/geopulse"><b>GeoPulse</b></a></td>
+    <td>Location-based services app</td>
+    <td>Dart, Flutter</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/olive-path"><b>Olive Path</b></a></td>
+    <td>Full-stack web application</td>
+    <td>TypeScript, Next.js</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/gradly"><b>Gradly</b></a></td>
+    <td>Education platform</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/Kremlib-app"><b>Kremlib App</b></a></td>
+    <td>Library application</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/E-Learning-Platform"><b>E-Learning Platform</b></a></td>
+    <td>Online learning system</td>
+    <td>HTML, CSS, JS</td>
+  </tr>
+</table>
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krem-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krem-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krem-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Krem-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -72,4 +92,3 @@
 <p align="center">
   <i>Open to collaborations and interesting projects. Let's build something together.</i>
 </p>
-]]>
