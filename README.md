@@ -55,29 +55,29 @@
     <td><b>Stack</b></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Krem-dev/geopulse"><b>GeoPulse</b></a></td>
-    <td>Location-based services app</td>
-    <td>Dart, Flutter</td>
+    <td><a href="https://github.com/Krem-dev/myportfolio"><b>My Portfolio</b></a></td>
+    <td>Windows 11-style interactive portfolio with draggable windows and desktop metaphor</td>
+    <td>Next.js, TypeScript, Fluent UI</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Krem-dev/olive-path"><b>Olive Path</b></a></td>
-    <td>Full-stack web application</td>
-    <td>TypeScript, Next.js</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/gradly"><b>Gradly</b></a></td>
-    <td>Education platform</td>
-    <td>TypeScript</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krem-dev/Kremlib-app"><b>Kremlib App</b></a></td>
-    <td>Library application</td>
-    <td>TypeScript</td>
+    <td><a href="https://github.com/Krem-dev/muncglobal-project"><b>MUNCGLOBAL</b></a></td>
+    <td>Conference website with Paystack payments, registration, and delegate management</td>
+    <td>React, Node.js, Express, Tailwind</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Krem-dev/E-Learning-Platform"><b>E-Learning Platform</b></a></td>
-    <td>Online learning system</td>
-    <td>HTML, CSS, JS</td>
+    <td>Full-stack eLearning system with auth, course management, video content, and admin dashboard</td>
+    <td>Python, Flask, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/esig"><b>eSig</b></a></td>
+    <td>Employee petition platform with digital signature capture and CSV export</td>
+    <td>JavaScript, Node.js, SQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krem-dev/SDDDs-Final-Year-Project"><b>Driver Drowsiness Detection</b></a></td>
+    <td>ML-powered drowsiness detection system (final year project)</td>
+    <td>Python, OpenCV</td>
   </tr>
 </table>
 
